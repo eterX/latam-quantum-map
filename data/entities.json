@@ -308,20 +308,6 @@
     "url": "https://unahur.edu.ar/"
   },
   {
-    "id": "qubit-ar",
-    "name": "QUBIT.AR",
-    "type": "research",
-    "country": "Argentina",
-    "city": "Buenos Aires",
-    "lat": -34.62,
-    "lng": -58.38,
-    "focus": [
-      "computing"
-    ],
-    "description": "Multi-institutional quantum computing platform. CONICET, UBA, UNC, UNSAM, Instituto Balseiro. Superconductor qubit platform under construction. Director: Mario Di Costanzo.",
-    "url": ""
-  },
-  {
     "id": "citedef",
     "name": "CITEDEF – DEILAP",
     "type": "research",
